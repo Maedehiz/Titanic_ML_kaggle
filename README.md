@@ -1,6 +1,6 @@
 # Titanic Machine Learning Challenge
 
-My solution to the Kaggle Titanic competition using [describe your approach]
+My solution to the Kaggle Titanic competition using
 
 ## Files
 - `Maedeh_iz_titanic.ipynb` - Main analysis notebook
